@@ -7,5 +7,5 @@ This bot has advantages such as, for example, it can select feeds that match a p
 Youtube Demo and how to :
 https://www.youtube.com/watch?v=yqcu0gEG-_g
 
-my youtube channel :
+if you like it, please subscribe to my youtube channel :
 https://www.youtube.com/c/freeangelz?sub_confirmation=1
