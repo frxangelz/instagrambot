@@ -1,0 +1,90 @@
+2021/07/10 12:31:05 core::main.(*cCore).Initialize::98 Twitter Media Is OFF
+2021/07/10 12:31:05 invdata::main.(*cInvData).load::246 Loaded : ./followings.txt 934 : 15000
+2021/07/10 12:31:05 invdata::main.(*cInvData).load::246 Loaded : ./autofollow.txt 12 : 15000
+2021/07/10 12:31:05 session::main.reloadSession::50 A session file exists
+2021/07/10 12:31:05 session::main.reloadSession::64 Successfully logged in
+2021/07/10 12:31:05 core::main.(*cCore).execute::159 Session : 1
+2021/07/10 12:31:35 feeds::main.(*cFeeds)._get_popular_feeds::211 Invalid status code {"message":"login_required","error_title":"You've Been Logged Out","error_body":"Please log back in.","logout_reason":5,"status":"fail"}
+2021/07/10 12:31:35 unfollower::main.(*cUnfollower)._unfollow_not_follow_back::204 Invalid status code {"message":"login_required","error_title":"You've Been Logged Out","error_body":"Please log back in.","logout_reason":5,"status":"fail"}
+2021/07/10 12:31:36 follower::main.(*cFollower)._search::369 Invalid status code {"message":"login_required","error_title":"You've Been Logged Out","error_body":"Please log back in.","logout_reason":5,"status":"fail"}
+2021/07/10 12:31:36 autofollow::main.(*cAutoFollow)._like::252 GetForLike return 0
+2021/07/10 12:31:36 autofollow::main.(*cAutoFollow)._unfollow::306 Invalid status code {"message":"login_required","error_title":"You've Been Logged Out","error_body":"Please log back in.","logout_reason":5,"status":"fail"}
+2021/07/10 12:31:36 poster::main.(*cPoster).post::230 Twitter Media Is Nil
+2021/07/10 12:33:18 core::main.(*cCore).Initialize::98 Twitter Media Is OFF
+2021/07/10 12:33:18 invdata::main.(*cInvData).load::246 Loaded : ./followings.txt 934 : 15000
+2021/07/10 12:33:18 invdata::main.(*cInvData).load::246 Loaded : ./autofollow.txt 12 : 15000
+2021/07/10 12:33:18 session::main.reloadSession::40 No Session Found
+2021/07/10 12:33:26 core::main.(*cCore).execute::159 Session : 1
+2021/07/10 12:33:59 feeds::main.(*cFeeds)._get_popular_feeds::216 Get Popular Feeds return : 24
+2021/07/10 12:33:59 unfollower::main.(*cUnfollower)._unfollow_not_follow_back::204 Invalid status code 
+2021/07/10 12:34:00 follower::main.(*cFollower)._search::387 Added To Node : 48
+2021/07/10 12:34:01 autofollow::main.(*cAutoFollow)._like::269 liked Media Id : 2611795457783312732 1:5 - 1:100
+2021/07/10 12:34:01 poster::main.(*cPoster).post::230 Twitter Media Is Nil
+2021/07/10 12:34:32 unfollower::main.(*cUnfollower)._search::290 Added Following : 71
+2021/07/10 12:39:17 core::main.(*cCore).Initialize::98 Twitter Media Is OFF
+2021/07/10 12:39:17 invdata::main.(*cInvData).load::246 Loaded : ./followings.txt 1004 : 15000
+2021/07/10 12:39:17 invdata::main.(*cInvData).load::246 Loaded : ./autofollow.txt 12 : 15000
+2021/07/10 12:39:17 session::main.reloadSession::50 A session file exists
+2021/07/10 12:39:17 session::main.reloadSession::64 Successfully logged in
+2021/07/10 12:39:17 core::main.(*cCore).execute::159 Session : 1
+2021/07/10 12:39:48 feeds::main.(*cFeeds)._get_popular_feeds::216 Get Popular Feeds return : 24
+2021/07/10 12:39:49 unfollower::main.(*cUnfollower)._unfollow_not_follow_back::204 Invalid status code 
+2021/07/10 12:39:49 follower::main.(*cFollower)._search::387 Added To Node : 48
+2021/07/10 12:39:50 autofollow::main.(*cAutoFollow)._like::269 liked Media Id : 2611957729941910535 1:5 - 1:100
+2021/07/10 12:39:50 poster::main.(*cPoster).post::230 Twitter Media Is Nil
+2021/07/10 12:47:24 unfollower::main.(*cUnfollower)._search::290 Added Following : 1
+2021/07/10 12:47:24 follower::main.(*cFollower)._follow_back::333 Invalid status code 
+2021/07/10 12:47:26 autofollow::main.(*cAutoFollow)._follow::222 followed UserId : 2155350468 1:1 - 1:15
+2021/07/10 12:49:31 follower::main.(*cFollower)._follow_back::333 Invalid status code 
+2021/07/10 12:49:31 autofollow::main.(*cAutoFollow)._like::244 75 Not My Lucky Day, ouch !
+2021/07/10 12:49:31 poster::main.(*cPoster).post::230 Twitter Media Is Nil
+2021/07/11 12:17:52 session::main.reloadSession::54 A session file exists
+2021/07/11 12:17:52 session::main.reloadSession::68 Successfully logged in
+2021/07/11 12:17:52 core::main.(*cCore).execute::96 Session : 1
+2021/07/11 12:18:24 feeds::main.(*cFeeds)._get_popular_feeds::219 Get Popular Feeds return : 24
+2021/07/11 12:18:26 unfollower::main.(*cUnfollower)._search::294 Added Following : 870
+2021/07/11 12:18:26 follower::main.(*cFollower)._search::393 Added To Node : 48
+2021/07/11 12:18:27 autofollow::main.(*cAutoFollow)._like::275 liked Media Id : 2614118444799829826 1:5 - 1:100
+2021/07/11 12:18:58 follower::main.(*cFollower)._follow_back::339 Invalid status code 
+2021/07/11 12:18:59 autofollow::main.(*cAutoFollow)._follow::228 followed UserId : 786869940 1:1 - 1:15
+2021/07/11 12:19:29 autofollow::main.(*cAutoFollow)._unfollow::302 No User Expired
+2021/07/11 12:27:18 invdata::main.(*cInvData).load::251 Loaded : ./followings.txt 870 : 15000
+2021/07/11 12:27:18 invdata::main.(*cInvData).load::251 Loaded : ./autofollow.txt 1 : 15000
+2021/07/11 12:27:18 session::main.reloadSession::54 A session file exists
+2021/07/11 12:27:18 session::main.reloadSession::68 Successfully logged in
+2021/07/11 12:27:18 core::main.(*cCore).execute::96 Session : 1
+2021/07/11 12:28:01 invdata::main.(*cInvData).load::251 Loaded : ./followings.txt 870 : 15000
+2021/07/11 12:28:01 invdata::main.(*cInvData).load::251 Loaded : ./autofollow.txt 1 : 15000
+2021/07/11 12:28:01 session::main.reloadSession::54 A session file exists
+2021/07/11 12:28:01 session::main.reloadSession::68 Successfully logged in
+2021/07/11 12:28:01 core::main.(*cCore).execute::96 Session : 1
+2021/07/11 12:28:49 invdata::main.(*cInvData).load::251 Loaded : ./followings.txt 870 : 15000
+2021/07/11 12:28:49 invdata::main.(*cInvData).load::251 Loaded : ./autofollow.txt 1 : 15000
+2021/07/11 12:28:49 session::main.reloadSession::54 A session file exists
+2021/07/11 12:28:49 session::main.reloadSession::68 Successfully logged in
+2021/07/11 12:28:49 core::main.(*cCore).execute::96 Session : 1
+2021/07/11 12:29:19 autofollow::main.(*cAutoFollow)._like::250 75 Not My Lucky Day, ouch !
+2021/07/11 12:45:04 invdata::main.(*cInvData).load::251 Loaded : ./followings.txt 870 : 15000
+2021/07/11 12:45:04 invdata::main.(*cInvData).load::251 Loaded : ./autofollow.txt 1 : 15000
+2021/07/11 12:45:04 session::main.reloadSession::54 A session file exists
+2021/07/11 12:45:04 session::main.reloadSession::68 Successfully logged in
+2021/07/11 12:45:04 core::main.(*cCore).execute::96 Session : 1
+2021/07/11 12:45:34 autofollow::main.(*cAutoFollow)._like::250 75 Not My Lucky Day, ouch !
+2021/07/11 12:47:41 invdata::main.(*cInvData).load::251 Loaded : ./followings.txt 870 : 15000
+2021/07/11 12:47:41 invdata::main.(*cInvData).load::251 Loaded : ./autofollow.txt 1 : 15000
+2021/07/11 12:47:41 session::main.reloadSession::54 A session file exists
+2021/07/11 12:47:41 session::main.reloadSession::68 Successfully logged in
+2021/07/11 12:47:41 core::main.(*cCore).execute::96 Session : 1
+2021/07/11 12:48:11 autofollow::main.(*cAutoFollow)._like::250 75 Not My Lucky Day, ouch !
+2021/07/11 12:49:29 invdata::main.(*cInvData).load::251 Loaded : ./followings.txt 870 : 15000
+2021/07/11 12:49:29 invdata::main.(*cInvData).load::251 Loaded : ./autofollow.txt 1 : 15000
+2021/07/11 12:49:29 session::main.reloadSession::54 A session file exists
+2021/07/11 12:49:29 session::main.reloadSession::68 Successfully logged in
+2021/07/11 12:49:29 core::main.(*cCore).execute::96 Session : 1
+2021/07/11 12:50:01 feeds::main.(*cFeeds)._get_popular_feeds::219 Get Popular Feeds return : 24
+2021/07/11 12:50:03 follower::main.(*cFollower)._search::393 Added To Node : 48
+2021/07/11 12:50:04 autofollow::main.(*cAutoFollow)._like::275 liked Media Id : 2610556976139316745 1:5 - 1:100
+2021/07/11 12:50:06 autofollow::main.(*cAutoFollow)._like::280 commented : 2610556976139316745 nice
+2021/07/11 12:50:36 follower::main.(*cFollower)._follow_back::339 Invalid status code 
+2021/07/11 12:50:37 autofollow::main.(*cAutoFollow)._follow::228 followed UserId : 34699287613 1:1 - 1:15
+2021/07/11 12:51:45 autofollow::main.(*cAutoFollow)._unfollow::302 No User Expired

@@ -1,0 +1,156 @@
+[main]
+; tampilkan debug ke console
+debug_to_console=1
+
+; tampilkan debug ke file log
+debug_to_file=1
+max_log_lines=500
+
+; synch interval in seconds, 0 to disable, > 15
+synch_interval=20
+
+; instagram account
+username=myjendhil
+password=cilacap2008
+
+[follower]
+enable=1
+
+; chance, 1-100 to make it more random
+chance=75
+
+; max node to keep in temporary
+max_node=5000
+
+; search interval in minutes, min 10 minutes
+interval=15
+
+; number of random follower screen name to mention in post 
+mention=0
+
+; followback / random, set 0 to disable
+max_follow_back_in_day=50
+max_follow_back_in_session=5
+
+; in minutes
+follow_back_interval=3
+
+; for test only
+run_on_start=1
+debug=1
+
+[unfollower]
+enable=1
+
+; min temporary node, dont edit if not sure
+min_node=200
+
+; max temporary node, dont edit if not sure
+max_node=5000
+
+; to make more randoms, 1-100, 100 = always executed
+chance=75
+
+; search interval in minutes, min 30 seconds
+search_interval=30
+
+; not follow back expired in days, 0 = disable
+follow_back_expired=14
+
+; not active, no post update in days, 0 = disable
+post_activity_expired=30
+
+; max unfollow in day
+max_unfollow_in_day=60
+
+; max unfollow in session
+max_unfollow_in_session=5
+
+; unfollow interval, in minutes
+unfollow_interval=10
+
+; exception, do not unfollow usernames, separated by comma
+exception_usernames=
+
+; fo test and debug
+run_on_start=1
+debug=1
+
+[auto]
+enable=1
+
+; for autofollow or like
+chance=75
+
+; interval, in minutes, min = 1
+like_interval=4
+
+; max like in session
+max_like_in_session=5
+
+; max like in a day
+max_like_in_day=100
+
+; max follow in session (a hour)
+max_follow_in_session=1
+
+; max follow in a day
+max_follow_in_day=15
+
+; follow interval in minutes, min 1, default 5
+follow_interval=5
+
+; auto unfollow if not following back, 0=disable, default 5
+max_unfollow_in_session=5
+
+; default 50
+max_unfollow_in_day=50
+
+; in minutes
+unfollow_interval=3
+
+; follow expired in days (if not following back)
+follow_expired=30
+
+; ignore usernames, separated by comma
+exception_usernames=toys,market,shop
+
+; also comment in like action
+;comment, separated by |, eg: nice|good|:)|wow !
+comment=nice|good|:)|wow !|i like it|amazing....|cool
+
+; chance to comment 0-100, 0 to disable
+comment_chance=75
+
+run_on_start=1
+debug=1
+
+[feeds]
+enable=1
+
+; to make it more random, 1-100%
+chance=75
+
+; search interval in minutes, min 10
+interval=10
+
+; max_node, temporary node to save feed data
+max_node=100
+
+; search tag, separated by coma ",", random which one to search
+; leave blank to get popular feeds
+;tags=humor,funny,viral
+tags=
+
+; expired in days, skip feed older than expired
+expired=30
+
+; if feed < min_like, skip it
+min_like=0
+
+; for test
+run_on_start=1
+
+; for debug
+debug=1
+
