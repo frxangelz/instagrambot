@@ -9,3 +9,16 @@ https://www.youtube.com/watch?v=yqcu0gEG-_g
 
 if you like it, please subscribe to my youtube channel :
 https://www.youtube.com/c/freeangelz?sub_confirmation=1
+
+This Bot required :
+
+A Go library for code tracing
+https://github.com/jimlawless/whereami
+
+Golang + Instagram Private API
+https://github.com/ahmdrz/goinsta
+
+config parser
+https://github.com/alyu/configparser
+
+thanks to them for the awesome code !
