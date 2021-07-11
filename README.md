@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=yqcu0gEG-_g
 if you like it, please subscribe to my youtube channel :
 https://www.youtube.com/c/freeangelz?sub_confirmation=1
 
-This Bot required :
+to compile the code, This Bot required :
 
 A Go library for code tracing
 https://github.com/jimlawless/whereami
@@ -22,3 +22,5 @@ config parser
 https://github.com/alyu/configparser
 
 thanks to them for the awesome code !
+
+if you dont want to recompile the code, you can just download 2 files in bin path, config.txt and instaXX (insta.exe, insta32 or insta64) insta.exe -> windows, insta32 -> linux 32bits and insta64 -> linux 64bits.
