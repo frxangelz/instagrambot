@@ -5,10 +5,10 @@ I made this bot for those of you who have a computer that is running 24 hours or
 This bot has advantages such as, for example, it can select feeds that match a particular hashtag, unfollow users who do not follow you, unfollow users who are not active, mention usernames in comments and most importantly it runs at random intervals. This bot is also very light and does not require a lot of memory because it does not need to run a browser.
 
 Youtube Demo and how to :
-https://www.youtube.com/watch?v=9i12z8o4kDc
+https://www.youtube.com/watch?v=ytB4VTxSOwQ
 
 if you like it, please subscribe to my youtube channel :
-https://www.youtube.com/c/freeangelz?sub_confirmation=1
+https://www.youtube.com/channel/UCqRqvw9n7Lrh79x3dRDOkDg
 
 to compile the code, This Bot required :
 

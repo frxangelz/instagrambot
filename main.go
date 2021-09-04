@@ -23,7 +23,7 @@ func halt() {
 
 func main() {
 	fmt.Println("Instagram Bot - autofollow, like, comment dan unfollow not followback (c) free Angel")
-	fmt.Println("plase subscribe to my youtube channel :\n https://www.youtube.com/channel/UC15iFd0nlfG_tEBrt6Qz1NQ")
+	fmt.Println("please subscribe to my youtube channel (Newbie Computer) :\n https://www.youtube.com/channel/UCqRqvw9n7Lrh79x3dRDOkDg")
 	fmt.Println("----------------------------------------\n")
 
 	Initialize()
